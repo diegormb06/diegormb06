@@ -1,6 +1,6 @@
 **Hi!**
 
-I'm **Diego Rodrigues**, a passionate developer who loves creating innovative systems and solving problems with technology. I hold a Bachelor's degree in *Social Sciences* from the Federal University of Goiás, and I have postgraduate degrees in *Innovation in Interactive Media* from UFG and *Software Architecture, Cyber Security and Data Science* from the Catholic University of Paraná.
+I'm **Diego Rodrigues**, a developer who loves creating innovative systems and solving problems with technology. I hold a Bachelor's degree in *Social Sciences* from the Federal University of Goiás, and I have postgraduate degrees in *Innovation in Interactive Media* from UFG and *Software Architecture, Cyber Security and Data Science* from the Catholic University of Paraná.
 
 ### Specialties:
 
@@ -12,7 +12,7 @@ I'm **Diego Rodrigues**, a passionate developer who loves creating innovative sy
 
 * C#: Experience working with C# using ASP.NET Core.
 * Dart/Flutter: Completed a project that is currently available on Android and iOS with over 100k active users.
-Back-end: Skilled in Node and PHP (with Laravel and Eloquent) to develop RESTful APIs and full-stack web applications.
+* Back-end: Skilled in Node and PHP (with Laravel and Eloquent) to develop RESTful APIs and full-stack web applications.
 * Agile Methodologies: Experience with agile methodologies to ensure efficient and client-aligned deliverables.
 
 ### Values:
