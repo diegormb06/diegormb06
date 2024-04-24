@@ -1,6 +1,6 @@
 **Hi!**
 
-I'm **Diego Rodrigues**, a developer who loves creating innovative systems and solving problems with technology. I hold a Bachelor's degree in *Social Sciences* from the Federal University of Goiás, and I have postgraduate degrees in *Innovation in Interactive Media* from UFG and *Software Architecture, Cyber Security and Data Science* from the Catholic University of Paraná.
+I'm **Diego Rodrigues**, a developer who loves creating innovative systems and solving problems with technology.
 
 ### Specialties:
 
